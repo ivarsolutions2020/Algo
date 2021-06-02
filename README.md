@@ -3,4 +3,7 @@
 # Stack
 # Queue
 # Linked List
+# Sorting
+# Tree
+
 
